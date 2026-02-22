@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "燃えよ",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-02-22T05:10:53.839588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "燃えよ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_燃えよ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "燃えよ - MO-EH-YO (Ignite)",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/02_燃えよ_-_MO-EH-YO_(Ignite)_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "燃えよ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_燃えよ_藤井_風.txt"
+    }
+  ]
+}
